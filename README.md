@@ -1,4 +1,4 @@
-### Hi I’m stack. 👋
+### Hi, I’m stack. 👋
  🌱 I’m currently learning goland,blockchain and web development
 
  
