@@ -1,5 +1,5 @@
 ### Hi, I’m stack. 👋
- 🌱 I’m currently learning goland,blockchain and web development
+ 🌱 I’m currently learning blockchain
  
  🔭 [my blog](stack165.github.io)
  
